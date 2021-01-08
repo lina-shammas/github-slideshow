@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"How lucky am I to have something to miss..." or something like that
 Use the left arrow to go back!
